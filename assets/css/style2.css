@@ -1,0 +1,67 @@
+body{
+	background-color: ;
+	font-family: 600px;
+	background-color: ;
+}
+
+table{
+	width: 20%;
+	text-align: left;
+	border-collapse: collapse;
+	width: 20%;
+
+
+}
+
+
+
+input[type="submit"]{
+	text-decoration: none;
+    padding: 5px;
+    font-weight: 50;
+    font-size: 15px;
+    color: white;
+    background-color: #00CED1;
+    border-radius: 6px;
+    border: 1.5px solid #0016b0;
+}
+
+input{
+	padding: 6px;
+	font-size: 10px;
+	background-color: #FAEBD7;
+	border: 1.2px solid #0016b0;
+
+
+}
+
+
+form{
+	
+	padding: 3px;
+	text-align: center;
+
+}
+
+table{
+	width: 30%;
+	text-align: left;
+	border-collapse: collapse;
+	width: 24%;
+
+
+}
+
+
+
+h2{
+	color: #FDF5E6;
+	background-color: #87CEFA;
+	width: 20%;
+	border-radius: 15px;
+	font-family: 600px;
+
+	
+
+}
+
